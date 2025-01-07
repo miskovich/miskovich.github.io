@@ -10,9 +10,13 @@
 }
 
 .self-headshot {
-    max-height: 250px;
-    max-width: 250px;
+    max-height: 125px;
+    max-width: 125px;
     border-radius: 50%;
+}
+
+.bg-light-gray {
+    background-color: #f5f5f5;
 }
 
 a {
